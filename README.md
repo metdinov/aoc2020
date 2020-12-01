@@ -7,19 +7,19 @@ To run the solution for a given day (i.e. day 1, part a):
 
 ## Go
 ```shell
-$> cd go
-$> go run day1a.go
+$ cd go
+$ go run day1a.go
 ```
 
 ## Ocaml
 ```shell
-$> cd ocaml
-$> dune exec ./day1a.exe
+$ cd ocaml
+$ dune exec ./day1a.exe
 ```
 
 ## Clojure
 ```shell
-$> cd go
-$> lein run day1a
+$ cd clojure
+$ lein run day1a
 ```
 
