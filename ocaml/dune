@@ -1,4 +1,4 @@
 (executables
- (names day1a day1b)
+ (names day1a day1b day2a day2b)
  (ocamlopt_flags (:standard -O3))
  (libraries base stdio))
