@@ -19,6 +19,14 @@ func SplitBlankFunc(data []byte, atEOF bool) (advance int, token []byte, err err
 	return
 }
 
+// Returs the maximum of two ints
+func Max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+
 // IntSet
 type IntSet struct {
 	m map[int]bool
